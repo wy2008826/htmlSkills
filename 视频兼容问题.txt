@@ -1,0 +1,8 @@
+可以通过调用优酷的分享功能，实现在自己的网站引用外部网站的视频
+
+html代码如下
+
+<embed src="http://player.youku.com/player.php/sid/XMzg1ODE0NDAw/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash">
+</embed>
+
+src可以通过分享功能查看到html代码，进而对引用的视频地址进行替换。
